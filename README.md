@@ -1,291 +1,257 @@
-## Hi there 👋
-
-This is my RoadMapt to become a BackEnd Developer!
-Tengo el siguiente roadmap, ayudame paso por paso y no avancemos de punto hasta que te diga que ya entendi bien el tema, ejemplo, apenaz voy a empezar con el punto 1.5, ayudame con eso y no avancemos al siguiente hasta terminar el tema, ademas estoy con un compañero estudiando a la par, yo c# y el java, empezomos y dame los temas equivalentes para cada lenguaje, empecemos con el 1.5:
-[Proyecto](https://www.notion.so/Proyecto-2a9c310904c880828c63fec363d503d8?pvs=21)
-
----
-
-## 🌱 **FASE 1 – Fundamentos, Git y Core del Backend**
-
-**Duración estimada:** 4 – 5 semanas
-
-### 🎯 Objetivo
-
-Comprender los principios fundamentales de la programación backend, el flujo cliente-servidor, y dominar Git desde el día 1.
-
-### 📘 Temas a estudiar
+<!-- 🚀 Banner -->
+<p align="center">
+  <h1 align="center">👋 Hola, soy Backend Developer en formación</h1>
+  <p align="center">
+    🚀 Construyendo habilidades paso a paso en Backend con **C# (.NET)** y **Java (Spring Boot)**
+  </p>
+  <p align="center">
+    💡 Avanzo con un compañero a la par — yo en C#, él en Java — cubriendo los puntos equivalentes en ambos lenguajes.
+  </p>
+</p>
 
 ---
 
-### 🧩 1.1 Git y GitHub
+## 📌 ¿Qué hay aquí?
 
-- [x]  -
+Este repositorio documenta mi **roadmap de estudios backend**, organizado por fases y con una progresión clara y práctica.
 
-- [x]  Instalación y configuración (`git config`)
-
-- [x]  -
-
-- [x]  Repositorios locales y remotos (`git init`, `git clone`)
-
-- [x]  -
-
-- [x]  Flujo básico de trabajo: `add`, `commit`, `push`, `pull`
-
-- [x]  -
-
-- [x]  Ramas y merge (`branch`, `checkout`, `merge`)
-
-- [x]  -
-
-- [x]  Buenas prácticas: nombres de ramas, mensajes de commit, PRs y code reviews.
-
-- [x]  -
-
-- [x]  Issues, Projects, y Boards de GitHub para gestión del trabajo.
+🔗 Proyecto principal:  
+👉 [Notion del Proyecto](https://www.notion.so/Proyecto-2a9c310904c880828c63fec363d503d8?pvs=21)
 
 ---
 
-### 🧩 1.2 Fundamentos del Backend
+## 🌱 FASE 1 – Fundamentos ✨
 
-- [x]  -
+⌛ *Duración estimada:* **4 – 5 semanas**
 
-- [x]  Arquitectura cliente-servidor.
+🎯 **Objetivo:**  
+Entender completamente la base de la programación backend, cómo funciona un servidor, cómo se comunica con clientes y dominar Git desde el día uno.
 
-- [x]  -
+---
 
-- [x]  Request–response, HTTP, JSON, y códigos de estado.
+### 🔧 1.1 Git y GitHub
 
-- [x]  -
+🧠 Conceptos que vas a dominar:
 
-- [x]  API REST: concepto, endpoints, recursos, verbos (GET, POST, PUT, DELETE).
+- 🔹 Instalación y configuración (`git config`)
+- 📂 Repos locales y remotos (`git init`, `git clone`)
+- 🔁 Flujo de trabajo:
+  - `git add`
+  - `git commit`
+  - `git push`
+  - `git pull`
+- 🌿 Ramas y merges (`branch`, `checkout`, `merge`)
+- ✨ Buenas prácticas:
+  - Nombres de ramas
+  - Mensajes de commit claros
+  - Pull Requests y code reviews
+- 📌 Issues, Projects y Boards en GitHub
 
-- [x]  -
+---
 
-- [x]  Introducción a Postman / Swagger para pruebas.
+### ⛅ 1.2 Fundamentos del Backend
+
+📌 Conceptos clave:
+
+- 🖥️ Arquitectura cliente-servidor
+- 🔁 Request / Response
+- 🌐 HTTP, JSON y códigos de estado
+- 🛠️ API REST
+  - Endpoints
+  - Verbs: GET / POST / PUT / DELETE
+- 🧪 Pruebas con Postman y Swagger
 
 ---
 
 ### 🧠 1.3 Programación Orientada a Objetos (POO)
 
-- [ ]  -
+📚 Puntos importantes:
 
-- [x]  Clases, objetos, métodos, constructores.
-
-- [ ]  -
-
-- [x]  Encapsulación, herencia, polimorfismo y abstracción.
-
-- [ ]  -
-
-- [x]  Interfaces y principios SOLID.
-
-Colecciones: List<SquadMember>, Map<Category, Goals> diccionarios
-
-### 
+- 👤 Clases, objetos y métodos
+- 🧱 Constructores
+- 🚦 Encapsulación
+- 🔁 Herencia
+- 🎭 Polimorfismo
+- 📐 Abstracción
+- 🧩 Interfaces y principios SOLID
+- 🗂️ Colecciones: Listas 📜 y Diccionarios / Mapas 🗺️
 
 ---
 
-### 🧰 1.4 Bases de datos relacionales
+### 💾 1.4 Bases de Datos Relacionales
 
-- [ ]  -
+📊 Temas esenciales:
 
-- [x]  Conceptos clave: tablas, columnas, filas, claves primarias/foráneas.
-
-- [ ]  -
-
-- [x]  Tipos de datos comunes (INT, VARCHAR, DATE, etc.).
-
-- [ ]  -
-
-- [x]  SQL básico: `CREATE`, `INSERT`, `SELECT`, `UPDATE`, `DELETE`.
-
-- [ ]  -
-
-- [x]  Relaciones 1:1, 1:N, N:N.
-
-- [ ]  -
-
-- [x]  Diseño de base de datos con diagramas ER.
+- 📌 Tablas, columnas y filas
+- 🔑 Claves primarias / foráneas
+- 🔤 Tipos de datos (INT, VARCHAR, DATE, etc.)
+- 🧠 SQL básico:
+  - `CREATE`
+  - `INSERT`
+  - `SELECT`
+  - `UPDATE`
+  - `DELETE`
+- 🔗 Relaciones:
+  - 1:1
+  - 1:N
+  - N:N
+- 📐 Diagramas ER y diseño de DB
 
 ---
 
-### ⚙️ 1.5 Introducción a los frameworks backend
+### ⚙️ 1.5 **Introducción a Frameworks Backend**
 
-- [ ]  Java → Spring Boot: estructura de proyecto, controladores, servicios, repositorios.
-- [ ]  C# → ASP.NET Core: controladores, dependency injection, configuración de rutas.
+👉 **Actualmente en enfoque**
 
-- [ ]  -
+| Tema | Java | C# |
+|------|------|----|
+| Framework | Spring Boot | ASP.NET Core |
+| ☁️ Estructura de proyecto | ✔️ | ✔️ |
+| 🔹 Controladores | ✔️ | ✔️ |
+| 🔧 Servicios | ✔️ | ✔️ |
+| 📦 Repositorios | ✔️ | ✔️ |
+| 🧠 Inyección de Dependencias | ✔️ | ✔️ |
+| 📍 Rutas, MVC y Capas | ✔️ | ✔️ |
 
-- [ ]  Patrón MVC y arquitectura en capas.
+📘 Contenidos:
 
----
-
-## 🧱 **FASE 2 – Relaciones, Seguridad y Buenas Prácticas**
-
-**Duración estimada:** 6 – 7 semanas
-
-### 🎯 Objetivo
-
-Aprender a diseñar bases de datos profesionales, implementar autenticación segura y establecer estándares de calidad de código.
-
-### 📘 Temas a estudiar
-
-### 🧩 2.1 Relaciones y consultas SQL intermedias
-
-- Relaciones N:N con tablas intermedias.
-- `JOIN`, `GROUP BY`, `HAVING`, `ORDER BY`, `LIMIT`.
-- Normalización y desnormalización.
-- Índices y claves compuestas.
-
-### 🔐 2.2 Seguridad y autenticación
-
-- Hashing de contraseñas (bcrypt, Argon2).
-- Autenticación con JWT.
-- Middleware para rutas protegidas.
-- Manejo de roles (user/admin).
-- Buenas prácticas de seguridad (no exponer secretos, CORS, validaciones).
-
-### 🧠 2.3 Buenas prácticas de desarrollo
-
-- Principios SOLID.
-- Clean Code (nombres claros, funciones pequeñas, sin duplicar lógica).
-- Logs y manejo de errores (try-catch global, logs estructurados).
-- Estructura de carpetas y modularización.
-
-### ⚙️ 2.4 Uso avanzado de Git y GitHub
-
-- Flujos Git colaborativos: `main`, `develop`, `feature/*`, `hotfix/*`.
-- Pull requests con revisión obligatoria.
-- Estrategias de merge (squash, rebase).
-- Hooks (pre-commit, lint, test).
+- 🚀 **Spring Boot (Java)**
+  - Estructura base
+  - Controllers, Services, Repositories
+  - Rutas y configuración
+- 🧩 **ASP.NET Core (C#)**
+  - Controladores
+  - Inyección de dependencias
+  - Configuración de rutas
+- 📚 Patrones:
+  - MVC
+  - Arquitectura en capas
 
 ---
 
-## 🔄 **FASE 3 – Lógica avanzada, testing y tiempo real**
+---
 
-**Duración estimada:** 8 – 9 semanas
+## 📈 FASE 2 – Seguridad y Buenas Prácticas
 
-### 🎯 Objetivo
+⌛ *Duración estimada:* **6 – 7 semanas**
 
-Llevar el backend a un nivel más interactivo y profesional con lógica de negocio compleja, testing y comunicación en tiempo real.
-
-### 📘 Temas a estudiar
-
-### 🧩 3.1 Lógica y servicios avanzados
-
-- Servicios y componentes independientes.
-- Planificación con CRON y background jobs.
-- Validaciones personalizadas.
-
-### ⚡ 3.2 Tiempo real y notificaciones
-
-- WebSockets y SignalR (C#) / Spring WebSocket (Java).
-- Eventos y listeners.
-- Caching con Redis: instalación, configuración y uso básico.
-
-### 🧪 3.3 Testing
-
-- Testing unitario: JUnit (Java), xUnit (C#).
-- Testing de integración: mockeo de dependencias.
-- Cobertura de tests y reportes.
-- Pruebas con Postman y colecciones automatizadas.
-
-### 💻 3.4 Automatización y scripts
-
-- Scripts de inicialización (`.sh`, `.bat`).
-- Automatizar tareas comunes: tests, builds, limpieza.
+🎯 **Objetivo:**  
+Construir APIs profesionales, seguras y escalables.
 
 ---
 
-## 🧠 **FASE 4 – Arquitectura moderna y microservicios**
+### 🔐 2.1 SQL Intermedio y Relaciones
 
-**Duración estimada:** 8 – 9 semanas
-
-### 🎯 Objetivo
-
-Dominar la estructura modular y escalable de aplicaciones modernas con microservicios, mensajería y CI/CD.
-
-### 📘 Temas a estudiar
-
-### 🧩 4.1 Arquitectura en capas y Clean Architecture
-
-- Capas: controller, service, repository, domain.
-- Inversión de dependencias.
-- DDD (Domain Driven Design).
-- Comunicación entre módulos.
-
-### 🔀 4.2 Microservicios
-
-- Qué es un microservicio.
-- Comunicación sincrónica (REST) y asíncrona (mensajería).
-- API Gateway.
-- RabbitMQ o Kafka (mensajería).
-- Estrategias de versionado de APIs.
-
-### 🧱 4.3 Contenedores y CI/CD
-
-- Docker: imágenes, contenedores, volúmenes, redes.
-- Docker Compose: orquestar servicios.
-- GitHub Actions: pipelines de build, test y deploy.
-- Variables de entorno y secretos.
+- Relaciones N:N
+- `JOIN`, `GROUP BY`, `HAVING`, `ORDER BY`, `LIMIT`
+- Normalización
+- Índices y claves compuestas
 
 ---
 
-## ☁️ **FASE 5 – DevOps y despliegue en la nube**
+### 🔒 2.2 Seguridad y Autenticación
 
-**Duración estimada:** 5 – 6 semanas
-
-### 🎯 Objetivo
-
-Aprender a desplegar, monitorear y mantener un backend profesional en entornos reales.
-
-### 📘 Temas a estudiar
-
-### ☁️ 5.1 Cloud Deploy
-
-- Render, Railway, AWS EC2, Azure App Service.
-- Configuración de entornos (dev / prod).
-- Archivos `.env` y secretos.
-- Despliegue automatizado desde GitHub Actions.
-
-### 📊 5.2 Observabilidad
-
-- Logging centralizado (Serilog / Logback).
-- Monitoreo y métricas (Prometheus, Grafana básicos).
-- Backups automáticos.
-
-### 🧰 5.3 Entornos profesionales
-
-- Variables de entorno seguras.
-- Versionado semántico (v1.0.0).
-- Documentación técnica con Swagger/OpenAPI.
+- 🔑 Hashing de contraseñas
+- 🛡️ JWT
+- 🚧 Middleware de rutas protegidas
+- 🧑‍💼 Roles (user/admin)
+- ⚠️ Validaciones y buenas prácticas
 
 ---
 
-## 🧾 **FASE 6 – Optimización y preparación profesional**
+### 🧹 2.3 Mejores prácticas de desarrollo
 
-**Duración estimada:** 4 – 5 semanas
-
-### 🎯 Objetivo
-
-Pulir el conocimiento, optimizar rendimiento, y prepararse para entrevistas laborales.
-
-### 📘 Temas a estudiar
-
-### 🚀 6.1 Optimización
-
-- Profiling de queries SQL.
-- Cacheo de resultados.
-- Indexación avanzada.
-- Caching distribuido con Redis.
-
-### 🧠 6.2 Portafolio y presentación profesional
-
-- Cómo documentar proyectos (README, videos, diagramas UML).
-- Cómo explicar proyectos en entrevistas.
-- Preguntas frecuentes de entrevistas backend:
-    - POO, SOLID, REST, SQL, seguridad, microservicios, CI/CD.
-- Ejemplos de respuestas técnicas.
+- SOLID
+- Clean Code
+- Manejo de errores y logs
+- Modularización
 
 ---
+
+### 🔀 2.4 Git avanzado
+
+- Workflows (feature, hotfix, develop)
+- Revisión de pull requests
+- Squash y rebase
+- Hooks (pre-commit, lint, test)
+
+---
+
+## 🚀 FASE 3 – Testing, Tiempo Real y Más
+
+⌛ *Duración:* **8 – 9 semanas**
+
+---
+
+### 🧠 Servicios avanzados
+- Validaciones personalizadas
+- CRON jobs
+- Background services
+
+---
+
+### ⚡ Comunicación en tiempo real
+- WebSockets | SignalR | Spring WebSocket
+- Eventos y listeners
+- Redis: caching
+
+---
+
+### 🧪 Testing Automatizado
+- Unit testing: JUnit / xUnit
+- Mocking
+- Integración
+- Cobertura de tests
+
+---
+
+## 🧱 FASE 4 – Arquitectura y Microservicios
+⌛ *Duración:* **8 – 9 semanas**
+
+---
+
+### 📐 Principios de Arquitectura
+- Capas separadas
+- DDD
+- Inversión de dependencias
+
+---
+
+### ⚙ Microservicios
+- REST vs Async
+- API Gateway
+- RabbitMQ / Kafka
+- Versionado de APIs
+
+---
+
+### 🐳 Contenedores y CI/CD
+- Docker
+- Docker Compose
+- GitHub Actions pipelines
+
+---
+
+## ☁️ FASE 5 – Deploy y DevOps
+⌛ *Duración:* **5 – 6 semanas**
+
+### 📦 Deploy en la nube
+Render, Railway, AWS, Azure
+
+---
+
+## 🎯 FASE 6 – Optimización & Portafolio
+⌛ *Duración:* **4 – 5 semanas**
+
+### 📌 Contenido final
+- Optimización de queries
+- Cache distribuido
+- Portafolio y preparación para entrevistas
+
+---
+
+<!-- 🚀 Footer -->
+<p align="center">
+  ⭐ Powered with passion & ☕ code<br>
+  📫 Sígueme para ver progreso y proyectos
+</p>
